@@ -8,13 +8,13 @@ with open("requirements.txt", "r") as f:
 
 setup(
     name="scrapy-impersonate",
-    version="1.6.1",
-    author="Jalil SA (jxlil)",
+    version="1.6.2",
+    author="Jalil SA (jxlil) / Liviu Maria",
     description="Scrapy download handler that can impersonate browser fingerprints",
     license="MIT",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/jxlil/scrapy-impersonate",
+    url="https://github.com/unknownliviu/scrapy-impersonate",
     packages=find_packages(),
     python_requires=">=3.8",
     install_requires=requirements,

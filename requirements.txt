@@ -1,2 +1,2 @@
-curl-cffi>=0.13.0
+curl-cffi>=0.14.0
 scrapy>=2.12.0
